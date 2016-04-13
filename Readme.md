@@ -1,4 +1,4 @@
-<img src="media/ProjectBanner.png" align="center" />
+<img src="media/ProjectBanner_small.png" align="center" />
 # University of Nevada - Reno
 ## Curriculog Dashboard
 
